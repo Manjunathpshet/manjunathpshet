@@ -1,6 +1,6 @@
  <h1 align="center">Hi <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />, I'm Manjunath </h1>
 <h3 align="center">A Data Science Enthusiast!!</h3>
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
+<img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🌱 I’m currently learning **Data Science,Python,Tableau,SQL,Artificial Intelligence**
 
@@ -23,9 +23,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathpshet&show_icons=true&locale=en&layout=compact" alt="manjunathpshet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manjunath&show_icons=true&locale=en&theme=2bbc8a&hide_border=true"" alt="Manjunath" /></p>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Manjunath&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunathpshet&label=Profile%20views&color=0e75b6&style=flat" alt="manjunathpshet" /> </p>
 
