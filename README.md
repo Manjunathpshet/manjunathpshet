@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **manjunath.pshet@gmail.com**
 <br>
+<br>
 <hr>
 <h3 align="left">Connect with me:</h3><img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="30px" style="margin-bottom: -5px;"  > </h3>
 <p align="left">
